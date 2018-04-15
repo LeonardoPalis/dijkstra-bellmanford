@@ -1,0 +1,10 @@
+THIS PROGRAM WAS DEVELOPED BY FELIPE COELHO AND LEONARDO PALIS.
+PROJETO E ANALISE DE ALGORITMOS - TP1
+
+QUESTAO 02 - 
+
+===============================================
+GRAFO 2:
+O grafo possui ciclo negativo
+===============================================
+

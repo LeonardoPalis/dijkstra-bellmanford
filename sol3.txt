@@ -1,0 +1,31 @@
+THIS PROGRAM WAS DEVELOPED BY FELIPE COELHO AND LEONARDO PALIS.
+PROJETO E ANALISE DE ALGORITMOS - TP1
+
+QUESTAO 03 - 
+
+===============================================
+GRAFO 1:
+Vertice 		 Distancia da origem
+0 				 0
+1 				 -1
+2 				 2
+3 				 -2
+4 				 1
+===============================================
+
+===============================================
+GRAFO 2:
+O grafo possui ciclo negativo
+===============================================
+
+===============================================
+GRAFO 3:
+Vertice 		 Distancia da origem
+0 				 0
+1 				 6
+2 				 5
+3 				 14
+4 				 33
+5 				 24
+===============================================
+
